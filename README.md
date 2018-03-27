@@ -1,0 +1,2 @@
+# rxBusDemo
+基于rxJava跟rxAndroid实现的eventBus的应用
